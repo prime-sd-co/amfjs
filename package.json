@@ -1,0 +1,10 @@
+{
+  "name": "amfjs",
+  "description": "AMFJS is an AMF 3 Client JavaScript library",
+  "version": "1.0.0",
+  "main": "amf.js",
+  "author": "kenshi Yamamura <kenshi@fes-total.com> (http://github.com/kenshiYM)",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
